@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "At Least We Tried",
+  "base_artist": "GIVĒON",
+  "createdAt": "2026-02-16T16:11:51.514159Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "At Least We Tried",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/01_At_Least_We_Tried_Moby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "At Least We Tried",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/02_At_Least_We_Tried_Moby.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "14 - At Least We Tried",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/03_14_-_At_Least_We_Tried_Moby.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Moby - At Least We Tried",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/04_Moby_-_At_Least_We_Tried_Moby.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "At Least We Tried",
+      "artist": "Giveon",
+      "has_synced": false,
+      "path": "select/pl_01_At_Least_We_Tried_Giveon.txt"
+    }
+  ]
+}
